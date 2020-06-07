@@ -1,0 +1,33 @@
+Name,Place of birth,EDU_NUM,Education,Loc_NUM,Location,Withdi,Gender,Age,Age_group,Level,v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13
+subject1,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,11,F,42,41-60,Upper inter,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+subject2,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,4,F,45,41-60,Elementary,yes,no,no,no,no,no,no,no,no,no,yes,yes,yes
+subject3,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,8,M,23,21-40,Upper inter,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,yes
+subject4,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,12,M,24,21-40,Upper inter,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+subject5,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,12,F,33,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+subject6,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,7,M,25,21-40,Intermediate,yes,yes,no,yes,yes,no,no,no,no,no,yes,yes,yes
+subject7,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,13,F,51,41-60,Upper inter,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject8,HONGKONG/MACAU,3,Master/ above,2,OVERSEAS,9,F,24,21-40,Upper inter,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,yes
+subject9,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,1,M,50,41-60,Elementary,no,no,no,no,no,no,no,no,no,no,no,no,yes
+subject10,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,11,M,41,41-60,Upper inter,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject11,OVERSEAS,2,Bachelor,2,OVERSEAS,10,F,24,21-40,Advanced,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+subject12,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,9,F,46,41-60,Elementary,yes,yes,no,no,yes,yes,yes,yes,yes,no,no,yes,yes
+subject13,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,8,F,26,21-40,Intermediate,yes,yes,no,no,yes,no,yes,no,yes,no,yes,yes,yes
+subject14,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,11,M,23,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes
+subject15,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,2,F,21,21-40,Advanced,no,no,no,no,no,no,yes,no,no,no,no,no,yes
+subject16,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,7,M,24,21-40,Upper inter,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,yes
+subject17,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,8,F,25,21-40,Intermediate,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes
+subject18,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,3,F,51,41-60,Elementary,yes,no,no,no,no,no,no,no,no,no,no,yes,yes
+subject19,HONGKONG/MACAU,3,Master/ above,1,HONGKONG/MACAU,8,F,28,21-40,Advanced,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes,yes
+subject20,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,3,F,43,41-60,Elementary,yes,no,no,no,no,no,yes,no,no,no,no,no,yes
+subject21,CHINA,1,Secondary school,1,HONGKONG/MACAU,10,F,48,41-60,Intermediate,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no
+subject22,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,6,M,21,21-40,Intermediate,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes
+subject23,HONGKONG/MACAU,3,Master/ above,2,OVERSEAS,5,F,23,21-40,Advanced,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes
+subject24,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,13,F,23,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject25,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,11,F,53,41-60,Elementary,no,no,no,no,no,no,yes,no,no,no,no,no,yes
+subject26,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,13,F,20,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject27,HONGKONG/MACAU,3,Master/ above,2,OVERSEAS,10,M,30,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes
+subject28,HONGKONG/MACAU,2,Bachelor,1,HONGKONG/MACAU,13,M,24,21-40,Upper inter,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject29,CHINA,2,Bachelor,2,OVERSEAS,8,F,23,21-40,Upper inter,yes,yes,no,yes,yes,no,yes,no,yes,no,no,yes,yes
+subject30,HONGKONG/MACAU,2,Bachelor,2,OVERSEAS,13,M,22,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+subject31,HONGKONG/MACAU,1,Secondary school,1,HONGKONG/MACAU,4,F,15,15-20,Intermediate,no,no,no,no,no,no,yes,no,no,no,yes,yes,yes
+subject32,OVERSEAS,2,Bachelor,2,OVERSEAS,13,F,21,21-40,Advanced,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
